@@ -2,17 +2,16 @@ print('Hello world')
 ---
 
 Olá 👋, eu sou a Leticia! 
-- 📖 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+- 📖 Estou estudando Análise e Desenvolvimento de Sistemas
 - 🔎 Tenho 21 anos e estou em busca da minha primeira oportunidade de emprego
 
 
 <details>
   <summary>🙋 Mais sobre mim</summary>
   
-   - ⏱️ No meu tempo livre, gosto de assistir séries, filmes, animes e doramas. Gosto de desenhar e agora comecei a me aventurar no bordado.Acredito que esses interreses,  me ajudam na criatividade, melhora na
-  concentração e foco.
+   - ⏱️ No meu tempo livre assisto séries, filmes, animes e doramas. Gosto de desenhar e comecei a me aventurar no bordado. Acredito que esses interreses, me ajudam na criatividade, melhora na concentração e foco.
      
-  - 💓 Adoro seguir tutoriais no YouTube de códigos variados para conhecer linguagens diversas e me arriscar resolvendo problemas que possa surgir no caminho. 
+  - 💓 Adoro seguir tutoriais no YouTube de códigos variados para conhecer linguagens diversas e me arriscar resolvendo problemas que possam surgir no caminho. 
      
   - 🌟 Meu sonho é trabalhar com programação, criar códigos que ajudem outras pessoas e um dia poder ensinar um pouco sobre esse mundo mágico que é a tecnologia. 
 </details>
