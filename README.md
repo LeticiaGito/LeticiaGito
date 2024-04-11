@@ -32,14 +32,3 @@ Olá 👋, eu sou a Leticia!
 <p align="center">
   <img align="center" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" alt="Imagem">
 </p>
-
-
-
-
-
-
-
-<!---
-LeticiaGito/LeticiaGito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
