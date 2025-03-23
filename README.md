@@ -2,8 +2,8 @@ print('Hello world')
 ---
 
 Olá 👋, eu sou a Leticia! 
-- 📖 Estou estudando Análise e Desenvolvimento de Sistemas
-- 🔎 Tenho 21 anos e estou em busca da minha primeira oportunidade de emprego
+- 📖 Estou no 3° no semestre em Análise e Desenvolvimento de Sistemas.
+- 🔎 Tenho 22 anos e estou em busca de uma oportunidade no mercado de trabalho.
 
 
 <details>
